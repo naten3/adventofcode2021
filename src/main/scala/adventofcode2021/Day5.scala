@@ -1,4 +1,4 @@
-package adventofcode2020
+package adventofcode2021
 
 import scala.collection.mutable.ListBuffer
 import scala.io.Source
